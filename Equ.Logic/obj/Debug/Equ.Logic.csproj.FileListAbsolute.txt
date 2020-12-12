@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\Equ\Equ.Logic\bin\Debug\Equ.Logic.dll
+C:\Users\andre\source\repos\Equ\Equ.Logic\bin\Debug\Equ.Logic.pdb
+C:\Users\andre\source\repos\Equ\Equ.Logic\obj\Debug\Equ.Logic.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Equ\Equ.Logic\obj\Debug\Equ.Logic.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Equ\Equ.Logic\obj\Debug\Equ.Logic.dll
+C:\Users\andre\source\repos\Equ\Equ.Logic\obj\Debug\Equ.Logic.pdb

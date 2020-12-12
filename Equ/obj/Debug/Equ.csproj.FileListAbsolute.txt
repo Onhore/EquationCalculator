@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\Equ\Equ\bin\Debug\Equ.exe.config
+C:\Users\andre\source\repos\Equ\Equ\bin\Debug\Equ.exe
+C:\Users\andre\source\repos\Equ\Equ\bin\Debug\Equ.pdb
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.Properties.Resources.resources
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.exe
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.pdb
+C:\Users\andre\source\repos\Equ\Equ\bin\Debug\Equ.Logic.dll
+C:\Users\andre\source\repos\Equ\Equ\bin\Debug\Equ.Logic.pdb
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.Main.resources
+C:\Users\andre\source\repos\Equ\Equ\obj\Debug\Equ.csproj.CopyComplete
